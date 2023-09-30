@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "key": "0b50c1a7-d006-4661-960c-10b88da8ee01",
+            "timestamp": "1673889466163",
+            "ip": "103.147.42.101",
+            "url": "https://example.com/product/some-product"
+        },
+        {
+            "key": "0b50c1a7-d006-4661-960c-10b88da8ee02",
+            "timestamp": "1673889466163",
+            "ip": "66.249.79.96",
+            "url": "https://example.com/checkout/thank-you"
+        }
+    ]
+}
